@@ -1,0 +1,22 @@
+# Dependências e módulos
+node_modules/
+
+# Pastas de compilação / build
+dist/
+dist-isolated/
+build/
+
+# Ficheiros do sistema e do editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.production
+
+# Logs do npm
+npm-debug.log*
+yarn-debug.log*

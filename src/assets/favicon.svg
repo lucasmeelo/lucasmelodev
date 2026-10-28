@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="32" height="32">
+  <!-- Fundo escuro pixelado (Opcional, combina com o tema dark do portfólio) -->
+  <rect width="16" height="16" fill="#09090b" />
+  
+  <!-- Letra 'L' em pixels (Blocos brancos estilo 8-bit) -->
+  <!-- Haste vertical do L -->
+  <rect x="4" y="3" width="3" height="10" fill="#f4f4f5" />
+  <!-- Base horizontal do L -->
+  <rect x="4" y="10" width="8" height="3" fill="#f4f4f5" />
+  
+  <!-- Detalhes/Sombra em pixel (Efeito de relevo em cinza escuro) -->
+  <rect x="7" y="11" width="5" height="1" fill="#71717a" />
+</svg>
