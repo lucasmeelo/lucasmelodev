@@ -17,7 +17,7 @@ export default function Experience() {
             <span>Em andamento</span>
           </div>
           <h3 className="font-bold text-sm font-mono text-zinc-200">Análise e Desenvolvimento de Sistemas</h3>
-          <p className="text-zinc-400 text-xs font-mono">Graduação Superior</p>
+          <p className="text-zinc-400 text-xs font-mono">Graduação</p>
         </div>
       </div>
     </section>

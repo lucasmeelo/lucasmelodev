@@ -1,14 +1,14 @@
 export const projects = [
   {
     title: 'Simple QR Generator',
-    description: 'Aplicação web simples e eficiente para geração instantânea de QRs dinâmicos com interface limpa e exportação direta.',
-    tags: ['TypeScript', 'React', 'Tailwind CSS'],
+    description: 'QR Code generator built with Java, Swing, Maven, and ZXing.',
+    tags: ['Java'],
     github: 'https://github.com/lucasmeelo/simple-qr-generator',
   },
   {
     title: 'YouTube Download Tool',
-    description: 'Ferramenta utilitária para conversão e download de mídias com foco em performance e facilidade de uso.',
-    tags: ['Python', 'JavaScript', 'Web API'],
+    description: 'a simple Python CLI tool to download youtube videos in mp4, mp3, or webm using yt-dlp.',
+    tags: ['Python'],
     github: 'https://github.com/lucasmeelo/youtube-download',
   }
 ];

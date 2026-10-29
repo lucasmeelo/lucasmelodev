@@ -17,12 +17,12 @@ export default function Hero() {
               Lucas Melo
             </h1>
             <p className="text-sm sm:text-base font-mono text-zinc-400 tracking-wider">
-              Desenvolvedor Full Stack
+              Full-Stack Developer 
             </p>
           </div>
 
           <p className="text-zinc-400 text-sm leading-relaxed max-w-xl font-mono">
-            "Construindo soluções através da tecnologia."
+            Technology is the future :)
           </p>
 
           <div className="flex flex-wrap items-center gap-4 pt-2">
