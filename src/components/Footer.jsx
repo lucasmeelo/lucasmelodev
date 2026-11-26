@@ -2,10 +2,13 @@ import React from 'react';
 
 export default function Footer() {
   return (
-    <footer className="border-t-2 border-zinc-900 py-8 text-center font-mono text-[10px] text-zinc-600 uppercase tracking-widest">
-      <div className="max-w-5xl mx-auto px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
-        <p>© {new Date().getFullYear()} Lucas Melo. Todos os direitos reservados.</p>
-        <p>Designed & Built with React + Tailwind</p>
+    <footer className="border-t border-zinc-900 bg-[#050505] pt-8 pb-20">
+      <div className="max-w-6xl mx-auto px-5 sm:px-8 flex flex-col sm:flex-row items-center justify-between gap-4 font-mono-tech text-xs text-zinc-500">
+        <div className="flex items-center gap-2">
+          <span className="w-2 h-2 bg-zinc-400 inline-block" />
+          <span>© {new Date().getFullYear()} Lucas Melo — Desenvolvedor Full Stack</span>
+        </div>
+        <span>MONO // PIXEL // ARCHITECTURE</span>
       </div>
     </footer>
   );

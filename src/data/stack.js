@@ -1,22 +1,22 @@
-export const stackData = [
+export const stackCategories = [
   {
-    category: 'Front-end',
+    title: 'Front-end',
     type: 'frontend',
-    items: ['TypeScript', 'JavaScript', 'React', 'Tailwind CSS']
+    skills: ['TypeScript', 'JavaScript', 'React', 'Tailwind CSS']
   },
   {
-    category: 'Back-end',
+    title: 'Back-end',
     type: 'backend',
-    items: ['Java', 'Spring Boot', 'Python']
+    skills: ['Java', 'Spring Boot', 'Python']
   },
   {
-    category: 'Database',
+    title: 'Database',
     type: 'database',
-    items: ['PostgreSQL']
+    skills: ['PostgreSQL']
   },
   {
-    category: 'Tools & DevOps',
+    title: 'Tools',
     type: 'tools',
-    items: ['Git', 'GitHub']
+    skills: ['Git', 'GitHub']
   }
 ];
